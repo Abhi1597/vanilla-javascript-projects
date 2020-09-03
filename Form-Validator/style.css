@@ -63,11 +63,11 @@ h2 {
 }
 
 .form-control.success input {
-    border-block: var(--success-color);
+    border-color: var(--success-color);
 }
 
 .form-control.error input {
-    border-block: var(--error-color);
+    border-color: var(--error-color);
 }
 
 .form-control small {
